@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EnvAssignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homeTitle">Env Safe</string>
+    <string name="envAwarenessString">Environment Awareness</string>
+    <string name="news">News</string>
+    <string name="coverageSubtitle">Forest Coverage</string>
+    <string name="txtorganization">Environmental Orgs</string>
+    <string name="txtQuiz">Quiz</string>
+    <string name="txtPlant">Plant a Tree</string>
+    <string name="login">Login</string>
+    <string name="txtSignIn">Sign In</string>
+    <string name="email">Email : </string>
+    <string name="pw">Password :</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+</resources>
